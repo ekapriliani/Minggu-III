@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🌸 Hallow, Everyone! 👋  
 
-<!--
-**ekapriliani/ekapriliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan, saya **Luh Eka Apriliani Putri** 🌼  
+Saya adalah mahasiswa **Geofisika UGM, Semester 3** 🎓✨  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tentang Saya
+- 🌍 Saat ini sedang belajar di mata kuliah **Metode Komputasi**  
+- 💻 GitHub ini saya gunakan sebagai media untuk menyimpan dan berbagi hasil **praktikum & latihan**  
+- 🌱 Saya ingin mendalami **komputasi dalam bidang geofisika** 
+
+---
+
+## 💖 Fun Facts
+- 🎶 Suka mendengarkan musik sambil belajar  
+- 📚 Senang membaca dan mengeksplor hal baru  
+- 🤝 Selalu terbuka untuk diskusi dan kolaborasi!  
+
+---
+
+✨ Terima kasih !🌟  
