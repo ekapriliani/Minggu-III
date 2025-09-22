@@ -1,3 +1,4 @@
+<img src="header.jpeg" alt="Banner" width="100%"/>
 # 🌸 Hallow, Everyone! 👋  
 
 Perkenalkan, saya **Luh Eka Apriliani Putri** 🌼  
